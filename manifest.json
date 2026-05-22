@@ -1,0 +1,20 @@
+{
+  "name": "Barcelona",
+  "short_name": "Barcelona",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#2E8B57",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "es",
+  "orientation": "natural",
+  "scope": "/",
+  "description": "Servicios geotécnicos profesionales en Barcelona, Spain. Estudios de suelo, ensayos y consultoría técnica.",
+  "id": "/barcelona-7602"
+}
